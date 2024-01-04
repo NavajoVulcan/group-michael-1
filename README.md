@@ -1,3 +1,3 @@
 # group-michael-1
 Project for LaunchCode's Liftoff Program
-Rico Rose
+Name: Rico Rose
